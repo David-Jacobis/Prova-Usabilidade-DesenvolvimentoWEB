@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Orelega One', cursive;
+}
+body{
+    display: flex;
+    background-image: url(/HTML\ CURRICULUM/CSS/Image/1443198.jpg);
+    background-size: cover;
+}
+.titulo{
+    color: aliceblue;
+    position: absolute;
+    left: 40%;
+    bottom: 80%;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+.Eu{
+    position: absolute;
+    width: 250px;
+    right: 80%;
+    bottom: 20%;
+}.paragrafo{
+    color: thistle;
+    position: absolute;
+    left: 23%;
+    bottom: 35%;
+    font-size: 25px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
