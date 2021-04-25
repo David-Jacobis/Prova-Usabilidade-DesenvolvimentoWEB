@@ -16,7 +16,7 @@ html,body{
     text-shadow: 0.1em 0.1em 0.2em black
 }
 body{
-    background-image: url(/HTML\ WORKSHOP/CSS/image/fundo2.jpg);
+    background-image: url(../CSS/image/fundo2.jpg);
     background-size: cover;
 }
 .content{

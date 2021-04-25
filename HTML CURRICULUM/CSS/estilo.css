@@ -7,7 +7,7 @@
 }
 body{
     display: flex;
-    background-image: url(/HTML\ CURRICULUM/CSS/Image/1443198.jpg);
+    background-image: url(../CSS/Image/1443198.jpg);
     background-size: cover;
 }
 .titulo{

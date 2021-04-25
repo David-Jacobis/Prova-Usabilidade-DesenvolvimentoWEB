@@ -16,7 +16,7 @@ bottom: 90%;
 text-shadow: 0.1em 0.1em 0.2em black
 }
 body{
-    background-image: url(/HTML\ WORKSHOP/CSS/image/fundo.png);
+    background-image: url(../CSS/image/fundo.png);
     background-size: cover;
 }
 .workshop{
